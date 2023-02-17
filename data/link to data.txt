@@ -1,0 +1,3 @@
+https://www.kaggle.com/competitions/dog-breed-identification/data
+
+kaggle competitions download -c dog-breed-identification
